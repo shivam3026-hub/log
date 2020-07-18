@@ -1,0 +1,17 @@
+2020-06-29 14:18:06 [main] INFO  App:13 - Enter Principle : 
+2020-06-29 14:18:24 [main] INFO  App:13 - Enter Principle : 
+2020-06-29 14:18:31 [main] INFO  App:15 - Enter Rate %: 
+2020-06-29 14:18:34 [main] INFO  App:17 - Enter Time(years) : 
+2020-06-29 14:18:36 [main] INFO  App:21 - Simple Interest : 10.0
+2020-06-29 14:18:36 [main] INFO  App:22 - Compound Interest : 10.000000000000014
+2020-06-29 14:19:02 [main] INFO  App:13 - Enter Principle : 
+2020-06-29 14:19:09 [main] INFO  App:24 - Enter the Area : 
+2020-06-29 14:19:13 [main] INFO  App:26 - Choose material Type: 
+2020-06-29 14:19:27 [main] INFO  App:40 - 120000.0
+2020-06-29 14:21:16 [main] INFO  App:24 - Enter the Area : 
+2020-06-29 14:21:18 [main] INFO  App:26 - Choose material Type: 
+2020-06-29 14:21:28 [main] INFO  App:37 - Invalid option
+2020-06-29 14:21:35 [main] INFO  App:24 - Enter the Area : 
+2020-06-29 14:21:38 [main] INFO  App:26 - Choose material Type: 
+2020-06-29 14:21:57 [main] INFO  App:30 - Select automation (true/false) : 
+2020-06-29 14:22:02 [main] INFO  App:40 - 250000.0
